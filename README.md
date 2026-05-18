@@ -5,7 +5,7 @@ Gigs Namibia is a web platform where people can post and find gigs, side hustles
 -Browse available opportunities
 -Simple and fast interface
 -Mobile-friendly design
-## Buiilt with
+## Built with
 -HTML
 -CSS
 -Javascript
